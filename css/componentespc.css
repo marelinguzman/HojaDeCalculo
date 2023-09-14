@@ -1,0 +1,53 @@
+.header {
+    align-items: center;
+    width: 80rem;
+    height: 7rem;
+    padding: 0rem 5rem;
+    border-bottom: 0.1rem solid rgb(0, 0, 0);
+}
+.logo{
+    width: 15rem;
+    margin-top: 1rem;
+}   
+.usuraio{
+    font-size: 2.5rem;
+    text-align: center;
+    width: 18rem;
+}
+.link{
+    font-size: 1.25rem;
+    text-align: right;
+    width: 60rem;
+}
+.texto{
+    width: 75rem;
+    text-align: justify;
+    font-size: 1.2rem;
+}
+.Componentes{
+    border-spacing: 1rem;
+    text-align: justify;
+    width: 80rem;
+}
+.tituloComponentes{
+    font-size: 1.5rem;
+}
+.textocomponentes{
+    width: 18rem;
+    text-align: justify;
+}
+.imagnenComponente{
+    width: 20rem;
+}
+.piePagina{
+    border-top: 1px solid black;
+    width: 80rem;
+}
+.GitHub-logo{
+    margin-top: 1rem;
+    width: 10rem;
+    height: 5rem;
+}
+.perfil{
+    font-size: 1.5rem;
+}

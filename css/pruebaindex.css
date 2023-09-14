@@ -1,0 +1,56 @@
+.header {
+    align-items: center;
+    width: 80rem;
+    height: 7rem;
+    padding: 0rem 5rem;
+    border-bottom: 0.1rem solid rgb(0, 0, 0);
+}
+.logo{
+    width: 15rem;
+    margin-top: 1rem;
+}   
+.usuraio{
+    font-size: 2.5rem;
+    text-align: center;
+    width: 18rem;
+}
+.link{
+    font-size: 1.25rem;
+    text-align: right;
+    width: 60rem;
+}
+.imagen{
+    width: 70rem;
+    height: auto;
+}
+.texto1{
+    text-align: justify;
+    width: 75rem;
+    font-size: 1.2rem;
+}
+.texto2{
+    text-align: justify;
+    width: 75rem;
+    font-size: 1.2rem;
+}
+img{
+    width: 6rem;
+    height: 6rem;
+}
+.procesadoresTexto{
+    border-spacing: 5rem;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.piePagina{
+    border-top: 1px solid black;
+    width: 80rem;
+}
+.GitHub-logo{
+    margin-top: 1rem;
+    width: 10rem;
+    height: 5rem;
+}
+.perfil{
+    font-size: 1.5rem;
+}
